@@ -24,7 +24,7 @@ public class Main implements Runnable {
 		NewGame newGame = new NewGame();
 
 		Messages.welcomeToGame();
-		System.out.println("Нажмите ENTER для начала игры...");
+		System.out.println("РќР°Р¶РјРёС‚Рµ ENTER РґР»СЏ РЅР°С‡Р°Р»Р° РёРіСЂС‹...");
 		new ToSay(ToSay.key);
 
 		newGame.PlayerParams();

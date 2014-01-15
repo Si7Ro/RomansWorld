@@ -9,7 +9,7 @@ import ua.sitro.romansworld.World;
 
 /**
  * 
- * Стартовая деревня "Forgotten Village"
+ * РЎС‚Р°СЂС‚РѕРІР°СЏ РґРµСЂРµРІРЅСЏ "Forgotten Village"
  * 
  **/
 
@@ -23,9 +23,9 @@ public class ForgottenVillage {
 	System.out
 		.println("/--------------------------------------------------------------------------/");
 	System.out
-		.println("/----    Я не представляю себе, каким ветром меня сюда занесло!?       ----/");
+		.println("/----    РЇ РЅРµ РїСЂРµРґСЃС‚Р°РІР»СЏСЋ СЃРµР±Рµ, РєР°РєРёРј РІРµС‚СЂРѕРј РјРµРЅСЏ СЃСЋРґР° Р·Р°РЅРµСЃР»Рѕ!?       ----/");
 	System.out
-		.println("/----           Думаю нужно наведаться к главе деревни...              ----/");
+		.println("/----           Р”СѓРјР°СЋ РЅСѓР¶РЅРѕ РЅР°РІРµРґР°С‚СЊСЃСЏ Рє РіР»Р°РІРµ РґРµСЂРµРІРЅРё...              ----/");
 	System.out
 		.println("/--------------------------------------------------------------------------/");
 
@@ -35,12 +35,12 @@ public class ForgottenVillage {
 	System.out
 		.println("/--------------------------------------------------------------------------/");
 	System.out
-		.println("/---- Вы вошли в дом главы посёлка. Добрый и отзывчивый "
+		.println("/---- Р’С‹ РІРѕС€Р»Рё РІ РґРѕРј РіР»Р°РІС‹ РїРѕСЃС‘Р»РєР°. Р”РѕР±СЂС‹Р№ Рё РѕС‚Р·С‹РІС‡РёРІС‹Р№ "
 			+ GlobalParams.Ametist + ",       ----/");
 	System.out
-		.println("/---- всегда рад гостям. Частенько он стоит около камина, у западной   ----/");
+		.println("/---- РІСЃРµРіРґР° СЂР°Рґ РіРѕСЃС‚СЏРј. Р§Р°СЃС‚РµРЅСЊРєРѕ РѕРЅ СЃС‚РѕРёС‚ РѕРєРѕР»Рѕ РєР°РјРёРЅР°, Сѓ Р·Р°РїР°РґРЅРѕР№   ----/");
 	System.out
-		.println("/---- стены дома. Поговорите с ним, возможно у него что-то есть для вас----/");
+		.println("/---- СЃС‚РµРЅС‹ РґРѕРјР°. РџРѕРіРѕРІРѕСЂРёС‚Рµ СЃ РЅРёРј, РІРѕР·РјРѕР¶РЅРѕ Сѓ РЅРµРіРѕ С‡С‚Рѕ-С‚Рѕ РµСЃС‚СЊ РґР»СЏ РІР°СЃ----/");
 	System.out
 		.println("/--------------------------------------------------------------------------/");
 
@@ -50,11 +50,11 @@ public class ForgottenVillage {
 	System.out
 		.println("/--------------------------------------------------------------------------/");
 	System.out
-		.println("/---- Вы ступаете на землю тренеровочного лагеря.                      ----/");
+		.println("/---- Р’С‹ СЃС‚СѓРїР°РµС‚Рµ РЅР° Р·РµРјР»СЋ С‚СЂРµРЅРµСЂРѕРІРѕС‡РЅРѕРіРѕ Р»Р°РіРµСЂСЏ.                      ----/");
 	System.out
-		.println("/---- В дали слышен звон мечей. У северной стены стоит Тренер новичков.----/");
+		.println("/---- Р’ РґР°Р»Рё СЃР»С‹С€РµРЅ Р·РІРѕРЅ РјРµС‡РµР№. РЈ СЃРµРІРµСЂРЅРѕР№ СЃС‚РµРЅС‹ СЃС‚РѕРёС‚ РўСЂРµРЅРµСЂ РЅРѕРІРёС‡РєРѕРІ.----/");
 	System.out
-		.println("/---- Поговорите с ним, возможно у него есть поручения для Вас.        ----/");
+		.println("/---- РџРѕРіРѕРІРѕСЂРёС‚Рµ СЃ РЅРёРј, РІРѕР·РјРѕР¶РЅРѕ Сѓ РЅРµРіРѕ РµСЃС‚СЊ РїРѕСЂСѓС‡РµРЅРёСЏ РґР»СЏ Р’Р°СЃ.        ----/");
 	System.out
 		.println("/--------------------------------------------------------------------------/");
 
@@ -65,35 +65,35 @@ public class ForgottenVillage {
 	System.out
 		.println("############################################################");
 	System.out
-		.println("########################СХЕМА ДЕРЕВНИ#######################");
+		.println("########################РЎРҐР•РњРђ Р”Р•Р Р•Р’РќР#######################");
 	System.out
 		.println("############################################################");
 	System.out
 		.println("########################        #############           ####");
 	System.out
-		.println("#####                           #### МАГ ####           ####");
+		.println("#####                           #### РњРђР“ ####           ####");
 	System.out
-		.println("#####    Дом главы  ####        #### Зал ####           ####");
+		.println("#####    Р”РѕРј РіР»Р°РІС‹  ####        #### Р—Р°Р» ####           ####");
 	System.out
 		.println("#####               ####        #####    ####           ####");
 	System.out
 		.println("########################                                ####");
 	System.out
-		.println("#####Конюшня####                                        ####");
+		.println("#####РљРѕРЅСЋС€РЅСЏ####                                        ####");
 	System.out
 		.println("########    ####                                        ####");
 	System.out
 		.println("####                                                    ####");
 	System.out
-		.println("################    ####     Р                          ####");
+		.println("################    ####     Р                           ####");
 	System.out
-		.println("####                ####     Ы       ####    ########   ####");
+		.println("####                ####     Р«       ####    ########   ####");
 	System.out
-		.println("####  Тренировочный ####     Н       ####        ####   ####");
+		.println("####  РўСЂРµРЅРёСЂРѕРІРѕС‡РЅС‹Р№ ####     Рќ       ####        ####   ####");
 	System.out
-		.println("####     лагерь     ####     О       ####Телепорт####   ####");
+		.println("####     Р»Р°РіРµСЂСЊ     ####     Рћ       ####РўРµР»РµРїРѕСЂС‚####   ####");
 	System.out
-		.println("####                ####     К       ####        ####   ####");
+		.println("####                ####     Рљ       ####        ####   ####");
 	System.out
 		.println("############################################################");
 
@@ -101,12 +101,12 @@ public class ForgottenVillage {
 
     public static void ForgottenVillageBuild() {
 
-	// Присваиваем координаты стартовой позиции игрока
+	// РџСЂРёСЃРІР°РёРІР°РµРј РєРѕРѕСЂРґРёРЅР°С‚С‹ СЃС‚Р°СЂС‚РѕРІРѕР№ РїРѕР·РёС†РёРё РёРіСЂРѕРєР°
 
 	World.PLAYER_POS_X = 7;
 	World.PLAYER_POS_Y = 7;
 
-	// Инициализируем границы деревни
+	// РРЅРёС†РёР°Р»РёР·РёСЂСѓРµРј РіСЂР°РЅРёС†С‹ РґРµСЂРµРІРЅРё
 	for (int count = 0; count < 15; count++) {
 	    World.world[count][0] = GlobalParams.paling;
 	}
@@ -120,35 +120,35 @@ public class ForgottenVillage {
 	    World.world[count][14] = GlobalParams.paling;
 	}
 
-	// Дом главы деревни
-	World.world[2][3] = GlobalParams.Ametist; // Квестовый персонаж, у него
-						  // 3 квеста.
-	World.world[3][10] = GlobalParams.NewbieGuide; // Квестовый персонаж
-	World.world[3][11] = GlobalParams.bonfire; // Костёр
-	World.world[6][11] = GlobalParams.TraderTauren; // Квестовый персонаж
-	World.world[1][10] = GlobalParams.TraningToys; // Квестовый персонаж
-	World.world[1][11] = GlobalParams.TraningToys; // Квестовый персонаж
-	World.world[1][12] = GlobalParams.TraningToys; // Квестовый персонаж
-	World.world[1][13] = GlobalParams.TraningToys; // Квестовый персонаж
-	World.world[2][13] = GlobalParams.TraningToys; // Квестовый персонаж
-	World.world[3][13] = GlobalParams.TraningToys; // Квестовый персонаж
-	World.world[4][13] = GlobalParams.TraningToys; // Квестовый персонаж
-	World.world[8][13] = GlobalParams.TraderRidjz; // Квестовый персонаж
-	World.world[8][11] = GlobalParams.TraderBerton; // Квестовый персонаж
-	World.world[4][10] = GlobalParams.TraningCamp; // При входе на
-						       // территорию
-						       // Тренировочного лагеря
-	World.world[1][8] = GlobalParams.Ostler; // Квестовый персонаж
-	World.world[9][2] = GlobalParams.Wizard; // Квестовый персонаж
-	World.world[13][13] = GlobalParams.Izabela; // Квестовый персонаж
-	World.world[9][9] = GlobalParams.Mumper; // Квестовый персонаж
+	// Р”РѕРј РіР»Р°РІС‹ РґРµСЂРµРІРЅРё
+	World.world[2][3] = GlobalParams.Ametist; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶, Сѓ РЅРµРіРѕ
+						  // 3 РєРІРµСЃС‚Р°.
+	World.world[3][10] = GlobalParams.NewbieGuide; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[3][11] = GlobalParams.bonfire; // РљРѕСЃС‚С‘СЂ
+	World.world[6][11] = GlobalParams.TraderTauren; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[1][10] = GlobalParams.TraningToys; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[1][11] = GlobalParams.TraningToys; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[1][12] = GlobalParams.TraningToys; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[1][13] = GlobalParams.TraningToys; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[2][13] = GlobalParams.TraningToys; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[3][13] = GlobalParams.TraningToys; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[4][13] = GlobalParams.TraningToys; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[8][13] = GlobalParams.TraderRidjz; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[8][11] = GlobalParams.TraderBerton; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[4][10] = GlobalParams.TraningCamp; // РџСЂРё РІС…РѕРґРµ РЅР°
+						       // С‚РµСЂСЂРёС‚РѕСЂРёСЋ
+						       // РўСЂРµРЅРёСЂРѕРІРѕС‡РЅРѕРіРѕ Р»Р°РіРµСЂСЏ
+	World.world[1][8] = GlobalParams.Ostler; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[9][2] = GlobalParams.Wizard; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[13][13] = GlobalParams.Izabela; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
+	World.world[9][9] = GlobalParams.Mumper; // РљРІРµСЃС‚РѕРІС‹Р№ РїРµСЂСЃРѕРЅР°Р¶
 
-	World.world[4][4] = GlobalParams.chest; // Квестовый сундук, в нём
-						// хранится ключ от конюшни.
-						// Можно открыть без квеста, но
-						// тогда не прибавится опыт.
-	World.world[4][2] = GlobalParams.chapterHouse; // При входе в дом,
-						       // выводится сообщение.
+	World.world[4][4] = GlobalParams.chest; // РљРІРµСЃС‚РѕРІС‹Р№ СЃСѓРЅРґСѓРє, РІ РЅС‘Рј
+						// С…СЂР°РЅРёС‚СЃСЏ РєР»СЋС‡ РѕС‚ РєРѕРЅСЋС€РЅРё.
+						// РњРѕР¶РЅРѕ РѕС‚РєСЂС‹С‚СЊ Р±РµР· РєРІРµСЃС‚Р°, РЅРѕ
+						// С‚РѕРіРґР° РЅРµ РїСЂРёР±Р°РІРёС‚СЃСЏ РѕРїС‹С‚.
+	World.world[4][2] = GlobalParams.chapterHouse; // РџСЂРё РІС…РѕРґРµ РІ РґРѕРј,
+						       // РІС‹РІРѕРґРёС‚СЃСЏ СЃРѕРѕР±С‰РµРЅРёРµ.
 	World.world[5][2] = GlobalParams.openDoor;
 	for (int count = 1; count < 8; count++) {
 	    World.world[1][count] = GlobalParams.wall;
@@ -164,26 +164,26 @@ public class ForgottenVillage {
 
 	}
 
-	// Конюшня
+	// РљРѕРЅСЋС€РЅСЏ
 	for (int count = 6; count < 8; count++) {
 	    World.world[3][count] = GlobalParams.wall;
 	}
-	World.world[2][7] = "Закрытая дверь";
-	World.world[2][6] = "Конь";
+	World.world[2][7] = "Р—Р°РєСЂС‹С‚Р°СЏ РґРІРµСЂСЊ";
+	World.world[2][6] = "РљРѕРЅСЊ";
 
-	// Тренировочный лагерь
+	// РўСЂРµРЅРёСЂРѕРІРѕС‡РЅС‹Р№ Р»Р°РіРµСЂСЊ
 	for (int count = 1; count < 4; count++) {
 	    World.world[count][9] = GlobalParams.paling;
 	}
 	for (int count = 9; count < 15; count++) {
 	    World.world[5][count] = GlobalParams.paling;
 	}
-	World.world[4][9] = "Ворота";
+	World.world[4][9] = "Р’РѕСЂРѕС‚Р°";
 
-	// Телепорт
-	World.world[10][10] = "Открытая дверь";
+	// РўРµР»РµРїРѕСЂС‚
+	World.world[10][10] = "РћС‚РєСЂС‹С‚Р°СЏ РґРІРµСЂСЊ";
 	World.world[11][10] = GlobalParams.wall;
-	World.world[10][12] = "Телепорт";
+	World.world[10][12] = "РўРµР»РµРїРѕСЂС‚";
 	for (int count = 10; count < 14; count++) {
 	    World.world[9][count] = GlobalParams.wall;
 	}
@@ -194,8 +194,8 @@ public class ForgottenVillage {
 	    World.world[12][count] = GlobalParams.wall;
 	}
 
-	// Магический зал
-	World.world[10][4] = "Открытая дверь";
+	// РњР°РіРёС‡РµСЃРєРёР№ Р·Р°Р»
+	World.world[10][4] = "РћС‚РєСЂС‹С‚Р°СЏ РґРІРµСЂСЊ";
 	World.world[9][4] = GlobalParams.wall;
 	for (int count = 1; count < 5; count++) {
 	    World.world[8][count] = GlobalParams.wall;
@@ -214,19 +214,19 @@ public class ForgottenVillage {
 		.equals(GlobalParams.chest)) {
 	    if (GlobalParams.ChestQuestKey == 1) {
 		System.out
-			.println("Тааак вижу сундук. В сундуке лежит ключ! Возьми меня... возьми... закричал ключик");
+			.println("РўР°Р°Р°Рє РІРёР¶Сѓ СЃСѓРЅРґСѓРє. Р’ СЃСѓРЅРґСѓРєРµ Р»РµР¶РёС‚ РєР»СЋС‡! Р’РѕР·СЊРјРё РјРµРЅСЏ... РІРѕР·СЊРјРё... Р·Р°РєСЂРёС‡Р°Р» РєР»СЋС‡РёРє");
 		new ToSay(ToSay.key);
 		if (ToSay.key.equals(GlobalParams.getKey)) {
 
 		    Messages.getKey();
 		    GlobalParams.keyToTheDoor++;
-		    System.out.println("Ключей в кармане: "
+		    System.out.println("РљР»СЋС‡РµР№ РІ РєР°СЂРјР°РЅРµ: "
 			    + GlobalParams.keyToTheDoor);
 		    GlobalParams.ChestQuestKey--;
 
 		}
 	    } else
-		System.out.println("В сундуке ничего нет...");
+		System.out.println("Р’ СЃСѓРЅРґСѓРєРµ РЅРёС‡РµРіРѕ РЅРµС‚...");
 
 	}
 
@@ -236,7 +236,7 @@ public class ForgottenVillage {
 	    if (GlobalParams.chapterHouseExp == 1) {
 		GlobalParams.exp = GlobalParams.exp + 1;
 		GlobalParams.chapterHouseExp = 0;
-		System.out.println("Вы получили 1 очко опыта.   У вас "
+		System.out.println("Р’С‹ РїРѕР»СѓС‡РёР»Рё 1 РѕС‡РєРѕ РѕРїС‹С‚Р°.   РЈ РІР°СЃ "
 			+ GlobalParams.exp + " XP");
 	    }
 	}
@@ -247,14 +247,14 @@ public class ForgottenVillage {
 	    if (GlobalParams.traningCampExp == 1) {
 		GlobalParams.exp = GlobalParams.exp + 1;
 		GlobalParams.traningCampExp = 0;
-		System.out.println("Вы получили 1 очко опыта.   У вас "
+		System.out.println("Р’С‹ РїРѕР»СѓС‡РёР»Рё 1 РѕС‡РєРѕ РѕРїС‹С‚Р°.   РЈ РІР°СЃ "
 			+ GlobalParams.exp + " XP");
 	    }
 	}
 
 	if (World.world[World.PLAYER_POS_X][World.PLAYER_POS_Y]
 		.equals(GlobalParams.Ametist)) {
-	    System.out.println("Желаете поговорить с Аметистом?");
+	    System.out.println("Р–РµР»Р°РµС‚Рµ РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РђРјРµС‚РёСЃС‚РѕРј?");
 	    new ToSay(ToSay.key);
 	    if (ToSay.key.equals(GlobalParams.speak)) {
 		spk = true;
@@ -263,36 +263,36 @@ public class ForgottenVillage {
 		    System.out
 			    .println(GlobalParams.Ametist
 				    + ":  "
-				    + "Привет "
+				    + "РџСЂРёРІРµС‚ "
 				    + GlobalParams.playerName
-				    + ", сейчас между нами должен будет произойти диалог... Но пока что я не знаю что тебе говорить...");
-		    System.out.println("Но я тебе предлагаю некий выбор:");
-		    System.out.println("Поговорить - 1");
-		    System.out.println("Квест - 2");
-		    System.out.println("Выйти из разговора - 3");
+				    + ", СЃРµР№С‡Р°СЃ РјРµР¶РґСѓ РЅР°РјРё РґРѕР»Р¶РµРЅ Р±СѓРґРµС‚ РїСЂРѕРёР·РѕР№С‚Рё РґРёР°Р»РѕРі... РќРѕ РїРѕРєР° С‡С‚Рѕ СЏ РЅРµ Р·РЅР°СЋ С‡С‚Рѕ С‚РµР±Рµ РіРѕРІРѕСЂРёС‚СЊ...");
+		    System.out.println("РќРѕ СЏ С‚РµР±Рµ РїСЂРµРґР»Р°РіР°СЋ РЅРµРєРёР№ РІС‹Р±РѕСЂ:");
+		    System.out.println("РџРѕРіРѕРІРѕСЂРёС‚СЊ - 1");
+		    System.out.println("РљРІРµСЃС‚ - 2");
+		    System.out.println("Р’С‹Р№С‚Рё РёР· СЂР°Р·РіРѕРІРѕСЂР° - 3");
 
 		    new ToSay(ToSay.key);
 
 		    if (ToSay.key.equals(GlobalParams.three)) {
-			System.out.println("Прощай!");
+			System.out.println("РџСЂРѕС‰Р°Р№!");
 			spk = false;
 		    }
 
 		    if (ToSay.key.equals(GlobalParams.one)) {
 			System.out
-				.println("Каждый народ велик не только своим будущим, но и своим прошлым...");
+				.println("РљР°Р¶РґС‹Р№ РЅР°СЂРѕРґ РІРµР»РёРє РЅРµ С‚РѕР»СЊРєРѕ СЃРІРѕРёРј Р±СѓРґСѓС‰РёРј, РЅРѕ Рё СЃРІРѕРёРј РїСЂРѕС€Р»С‹Рј...");
 			System.out.println();
 		    }
 		    if (ToSay.key.equals(GlobalParams.two)) {
 
 			if (GlobalParams.FVQuestTraningCamp == 0) {
-			    System.out.println("Тренировочный лагерь - 1");
+			    System.out.println("РўСЂРµРЅРёСЂРѕРІРѕС‡РЅС‹Р№ Р»Р°РіРµСЂСЊ - 1");
 			}
 			if (GlobalParams.exp > 50) {
-			    System.out.println("Эпидемия - 2");
+			    System.out.println("Р­РїРёРґРµРјРёСЏ - 2");
 			}
 			if (GlobalParams.exp > 90) {
-			    System.out.println("Письмо Тальку - 3");
+			    System.out.println("РџРёСЃСЊРјРѕ РўР°Р»СЊРєСѓ - 3");
 			}
 			new ToSay(ToSay.key);
 			if (ToSay.key.equals(GlobalParams.one)) {
@@ -303,7 +303,7 @@ public class ForgottenVillage {
 				GlobalParams.FVQuestTraningCamp = 1;
 				System.out
 					.println(GlobalParams.playerName
-						+ ", тебе необходимо найти тренера новичков, в тренеровочном лагере. Поговори с ним.");
+						+ ", С‚РµР±Рµ РЅРµРѕР±С…РѕРґРёРјРѕ РЅР°Р№С‚Рё С‚СЂРµРЅРµСЂР° РЅРѕРІРёС‡РєРѕРІ, РІ С‚СЂРµРЅРµСЂРѕРІРѕС‡РЅРѕРј Р»Р°РіРµСЂРµ. РџРѕРіРѕРІРѕСЂРё СЃ РЅРёРј.");
 				if (GlobalParams.gmMode) {
 				    System.out.println("spk = " + spk);
 				    System.out.println("isQuest = "
@@ -318,19 +318,19 @@ public class ForgottenVillage {
 			    spk = false;
 			    System.out
 				    .println(GlobalParams.Ametist
-					    + ":  О! Воин, это вы! Даже не представляете, как я рад вас видеть!");
+					    + ":  Рћ! Р’РѕРёРЅ, СЌС‚Рѕ РІС‹! Р”Р°Р¶Рµ РЅРµ РїСЂРµРґСЃС‚Р°РІР»СЏРµС‚Рµ, РєР°Рє СЏ СЂР°Рґ РІР°СЃ РІРёРґРµС‚СЊ!");
 			    new ToSay(ToSay.key);
 			    System.out
 				    .println(GlobalParams.playerName
-					    + ": Приветствую тебя, Аметист! Отчего это мое появление такую бурную радость у тебя вызвало? ");
+					    + ": РџСЂРёРІРµС‚СЃС‚РІСѓСЋ С‚РµР±СЏ, РђРјРµС‚РёСЃС‚! РћС‚С‡РµРіРѕ СЌС‚Рѕ РјРѕРµ РїРѕСЏРІР»РµРЅРёРµ С‚Р°РєСѓСЋ Р±СѓСЂРЅСѓСЋ СЂР°РґРѕСЃС‚СЊ Сѓ С‚РµР±СЏ РІС‹Р·РІР°Р»Рѕ? ");
 			    new ToSay(ToSay.key);
 			    System.out
 				    .println(GlobalParams.Ametist
-					    + ":  Такие дела, воин, страшные происходят и непонятные! \n"
-					    + "Помощь мне нужна крепкого бесстрашного бойца. А вы в прошлый раз показали себя именно таким!"
-					    + "\nСтрашная эпидемия появилась в нашем посёлке. Для людей не страшна, но вот от неё гибнут лошади."
-					    + "\n Вся надежда только на тебя! Выясни что да как... \n"
-					    + "Конюх введет тебя в курс дела. Он как всегда около конюшни.\n");
+					    + ":  РўР°РєРёРµ РґРµР»Р°, РІРѕРёРЅ, СЃС‚СЂР°С€РЅС‹Рµ РїСЂРѕРёСЃС…РѕРґСЏС‚ Рё РЅРµРїРѕРЅСЏС‚РЅС‹Рµ! \n"
+					    + "РџРѕРјРѕС‰СЊ РјРЅРµ РЅСѓР¶РЅР° РєСЂРµРїРєРѕРіРѕ Р±РµСЃСЃС‚СЂР°С€РЅРѕРіРѕ Р±РѕР№С†Р°. Рђ РІС‹ РІ РїСЂРѕС€Р»С‹Р№ СЂР°Р· РїРѕРєР°Р·Р°Р»Рё СЃРµР±СЏ РёРјРµРЅРЅРѕ С‚Р°РєРёРј!"
+					    + "\nРЎС‚СЂР°С€РЅР°СЏ СЌРїРёРґРµРјРёСЏ РїРѕСЏРІРёР»Р°СЃСЊ РІ РЅР°С€РµРј РїРѕСЃС‘Р»РєРµ. Р”Р»СЏ Р»СЋРґРµР№ РЅРµ СЃС‚СЂР°С€РЅР°, РЅРѕ РІРѕС‚ РѕС‚ РЅРµС‘ РіРёР±РЅСѓС‚ Р»РѕС€Р°РґРё."
+					    + "\n Р’СЃСЏ РЅР°РґРµР¶РґР° С‚РѕР»СЊРєРѕ РЅР° С‚РµР±СЏ! Р’С‹СЏСЃРЅРё С‡С‚Рѕ РґР° РєР°Рє... \n"
+					    + "РљРѕРЅСЋС… РІРІРµРґРµС‚ С‚РµР±СЏ РІ РєСѓСЂСЃ РґРµР»Р°. РћРЅ РєР°Рє РІСЃРµРіРґР° РѕРєРѕР»Рѕ РєРѕРЅСЋС€РЅРё.\n");
 			    GlobalParams.FVQuestEpidemia = 1;
 			    spk = false;
 
@@ -341,7 +341,7 @@ public class ForgottenVillage {
 			if (GlobalParams.exp > 30) {
 			    spk = false;
 			    System.out
-				    .println("Здесь текст квеста \"Письмо Тальку\" и различные параметры для его прохождения");
+				    .println("Р—РґРµСЃСЊ С‚РµРєСЃС‚ РєРІРµСЃС‚Р° \"РџРёСЃСЊРјРѕ РўР°Р»СЊРєСѓ\" Рё СЂР°Р·Р»РёС‡РЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ РґР»СЏ РµРіРѕ РїСЂРѕС…РѕР¶РґРµРЅРёСЏ");
 
 			}
 		    }
@@ -350,11 +350,11 @@ public class ForgottenVillage {
 		if (GlobalParams.FVQuestTraningCamp == 8) {
 		    System.out
 			    .println(GlobalParams.playerName
-				    + ", я ищу тебя весь день! Я наслышан о твоей помощи нашему тренеру.\n"
-				    + " Позволь тебя немного отблагодарить... Думаю тебя обрадует мой сюрприз. А сейчас возьми это письмо и отнеси его Таурену, на рынок. ");
+				    + ", СЏ РёС‰Сѓ С‚РµР±СЏ РІРµСЃСЊ РґРµРЅСЊ! РЇ РЅР°СЃР»С‹С€Р°РЅ Рѕ С‚РІРѕРµР№ РїРѕРјРѕС‰Рё РЅР°С€РµРјСѓ С‚СЂРµРЅРµСЂСѓ.\n"
+				    + " РџРѕР·РІРѕР»СЊ С‚РµР±СЏ РЅРµРјРЅРѕРіРѕ РѕС‚Р±Р»Р°РіРѕРґР°СЂРёС‚СЊ... Р”СѓРјР°СЋ С‚РµР±СЏ РѕР±СЂР°РґСѓРµС‚ РјРѕР№ СЃСЋСЂРїСЂРёР·. Рђ СЃРµР№С‡Р°СЃ РІРѕР·СЊРјРё СЌС‚Рѕ РїРёСЃСЊРјРѕ Рё РѕС‚РЅРµСЃРё РµРіРѕ РўР°СѓСЂРµРЅСѓ, РЅР° СЂС‹РЅРѕРє. ");
 		    GlobalParams.FVQuestTraningCamp = 9;
 		    System.out.println();
-		    System.out.println("Вы получили \"Письмо Таурену\" ");
+		    System.out.println("Р’С‹ РїРѕР»СѓС‡РёР»Рё \"РџРёСЃСЊРјРѕ РўР°СѓСЂРµРЅСѓ\" ");
 		    ForgottenVillage.spk = false;
 		}
 	    }
@@ -362,7 +362,7 @@ public class ForgottenVillage {
 
 	if (World.world[World.PLAYER_POS_X][World.PLAYER_POS_Y]
 		.equals(GlobalParams.NewbieGuide)) {
-	    System.out.println("Желаете поговорить с Тренером новчиков?");
+	    System.out.println("Р–РµР»Р°РµС‚Рµ РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РўСЂРµРЅРµСЂРѕРј РЅРѕРІС‡РёРєРѕРІ?");
 	    new ToSay(ToSay.key);
 	    if (ToSay.key.equals(GlobalParams.speak)) {
 
@@ -371,22 +371,22 @@ public class ForgottenVillage {
 		    System.out
 			    .println(GlobalParams.NewbieGuide
 				    + ":  "
-				    + "Привет "
+				    + "РџСЂРёРІРµС‚ "
 				    + GlobalParams.playerName
-				    + ", сейчас между нами должен будет произойти диалог... Но пока что я не знаю что тебе говорить...");
-		    System.out.println("Но я тебе предлагаю некий выбор:");
-		    System.out.println("Поговорить - 1");
-		    System.out.println("Квест - 2");
-		    System.out.println("Выйти из разговора - 3");
+				    + ", СЃРµР№С‡Р°СЃ РјРµР¶РґСѓ РЅР°РјРё РґРѕР»Р¶РµРЅ Р±СѓРґРµС‚ РїСЂРѕРёР·РѕР№С‚Рё РґРёР°Р»РѕРі... РќРѕ РїРѕРєР° С‡С‚Рѕ СЏ РЅРµ Р·РЅР°СЋ С‡С‚Рѕ С‚РµР±Рµ РіРѕРІРѕСЂРёС‚СЊ...");
+		    System.out.println("РќРѕ СЏ С‚РµР±Рµ РїСЂРµРґР»Р°РіР°СЋ РЅРµРєРёР№ РІС‹Р±РѕСЂ:");
+		    System.out.println("РџРѕРіРѕРІРѕСЂРёС‚СЊ - 1");
+		    System.out.println("РљРІРµСЃС‚ - 2");
+		    System.out.println("Р’С‹Р№С‚Рё РёР· СЂР°Р·РіРѕРІРѕСЂР° - 3");
 		    new ToSay(ToSay.key);
 		    if (ToSay.key.equals(GlobalParams.one)) {
 			System.out
-				.println("Мне неочем с тобой разговаривать...");
+				.println("РњРЅРµ РЅРµРѕС‡РµРј СЃ С‚РѕР±РѕР№ СЂР°Р·РіРѕРІР°СЂРёРІР°С‚СЊ...");
 			System.out.println();
 		    }
 		    if (ToSay.key.equals(GlobalParams.two)) {
 			if (GlobalParams.FVQuestTraningCamp == 2) {
-			    System.out.println("Тренировочный лагерь - 1");
+			    System.out.println("РўСЂРµРЅРёСЂРѕРІРѕС‡РЅС‹Р№ Р»Р°РіРµСЂСЊ - 1");
 			}
 			new ToSay(ToSay.key);
 			if (ToSay.key.equals(GlobalParams.three)) {
@@ -397,12 +397,12 @@ public class ForgottenVillage {
 				    || GlobalParams.FVQuestTraningCamp == 2) {
 
 				System.out
-					.println("Послушай... У меня очень мало времени, так что рассказываю в кратце.\n"
-						+ "Махаешь руками!!! Ногами!!! Головой!!! Залог победы...\n"
+					.println("РџРѕСЃР»СѓС€Р°Р№... РЈ РјРµРЅСЏ РѕС‡РµРЅСЊ РјР°Р»Рѕ РІСЂРµРјРµРЅРё, С‚Р°Рє С‡С‚Рѕ СЂР°СЃСЃРєР°Р·С‹РІР°СЋ РІ РєСЂР°С‚С†Рµ.\n"
+						+ "РњР°С…Р°РµС€СЊ СЂСѓРєР°РјРё!!! РќРѕРіР°РјРё!!! Р“РѕР»РѕРІРѕР№!!! Р—Р°Р»РѕРі РїРѕР±РµРґС‹...\n"
 						+ "\n"
-						+ "Мне необходимо, чтобы ты раздобыл 3 предмета с гербом нашей армии.\n"
-						+ "Получить их ты сможешь тренируясь на куклах, у западной и южной стен тренировочного лагеря\n"
-						+ "Ну!? Чего стоишь??? ВПЕРЕД!!!");
+						+ "РњРЅРµ РЅРµРѕР±С…РѕРґРёРјРѕ, С‡С‚РѕР±С‹ С‚С‹ СЂР°Р·РґРѕР±С‹Р» 3 РїСЂРµРґРјРµС‚Р° СЃ РіРµСЂР±РѕРј РЅР°С€РµР№ Р°СЂРјРёРё.\n"
+						+ "РџРѕР»СѓС‡РёС‚СЊ РёС… С‚С‹ СЃРјРѕР¶РµС€СЊ С‚СЂРµРЅРёСЂСѓСЏСЃСЊ РЅР° РєСѓРєР»Р°С…, Сѓ Р·Р°РїР°РґРЅРѕР№ Рё СЋР¶РЅРѕР№ СЃС‚РµРЅ С‚СЂРµРЅРёСЂРѕРІРѕС‡РЅРѕРіРѕ Р»Р°РіРµСЂСЏ\n"
+						+ "РќСѓ!? Р§РµРіРѕ СЃС‚РѕРёС€СЊ??? Р’РџР•Р Р•Р”!!!");
 				GlobalParams.FVQuestTraningCamp = 2;
 				spk = false;
 
@@ -412,7 +412,7 @@ public class ForgottenVillage {
 				    || GlobalParams.FVQuestTraningCamp == 4) {
 				GlobalParams.FVQuestTraningCampItem = 0;
 				System.out
-					.println("Видишь потухший костёр позаду тебя? Нам необходимо его разжечь... Найди огонь... Вероятней всего прийдется поторговаться...");
+					.println("Р’РёРґРёС€СЊ РїРѕС‚СѓС…С€РёР№ РєРѕСЃС‚С‘СЂ РїРѕР·Р°РґСѓ С‚РµР±СЏ? РќР°Рј РЅРµРѕР±С…РѕРґРёРјРѕ РµРіРѕ СЂР°Р·Р¶РµС‡СЊ... РќР°Р№РґРё РѕРіРѕРЅСЊ... Р’РµСЂРѕСЏС‚РЅРµР№ РІСЃРµРіРѕ РїСЂРёР№РґРµС‚СЃСЏ РїРѕС‚РѕСЂРіРѕРІР°С‚СЊСЃСЏ...");
 				GlobalParams.FVQuestTraningCamp = 4;
 				spk = false;
 
@@ -421,7 +421,7 @@ public class ForgottenVillage {
 			    if (GlobalParams.FVQuestTraningCamp == 5) {
 
 				System.out
-					.println("Ну? Чего стоишь? Розжигай!");
+					.println("РќСѓ? Р§РµРіРѕ СЃС‚РѕРёС€СЊ? Р РѕР·Р¶РёРіР°Р№!");
 				GlobalParams.FVQuestTraningCamp = 6;
 				spk = false;
 
@@ -430,9 +430,9 @@ public class ForgottenVillage {
 			    if (GlobalParams.FVQuestTraningCamp == 7) {
 
 				System.out
-					.println("Молодец "
+					.println("РњРѕР»РѕРґРµС† "
 						+ GlobalParams.playerName
-						+ ", теперь отправляйся к Аметисту. Он давно тебя ищет!");
+						+ ", С‚РµРїРµСЂСЊ РѕС‚РїСЂР°РІР»СЏР№СЃСЏ Рє РђРјРµС‚РёСЃС‚Сѓ. РћРЅ РґР°РІРЅРѕ С‚РµР±СЏ РёС‰РµС‚!");
 				GlobalParams.FVQuestTraningCamp = 8;
 				spk = false;
 
@@ -441,10 +441,10 @@ public class ForgottenVillage {
 			    if (GlobalParams.FVQuestTraningCamp == 10) {
 
 				System.out
-					.println("Прекраснейший клинок! Позволь продемонстрировать тебе несколько ударов.");
+					.println("РџСЂРµРєСЂР°СЃРЅРµР№С€РёР№ РєР»РёРЅРѕРє! РџРѕР·РІРѕР»СЊ РїСЂРѕРґРµРјРѕРЅСЃС‚СЂРёСЂРѕРІР°С‚СЊ С‚РµР±Рµ РЅРµСЃРєРѕР»СЊРєРѕ СѓРґР°СЂРѕРІ.");
 				System.out
-					.println("Самое время поупражняться на куклах. Принеси мне 3 квестовых предмета с "
-						+ "тренировочных кукол.");
+					.println("РЎР°РјРѕРµ РІСЂРµРјСЏ РїРѕСѓРїСЂР°Р¶РЅСЏС‚СЊСЃСЏ РЅР° РєСѓРєР»Р°С…. РџСЂРёРЅРµСЃРё РјРЅРµ 3 РєРІРµСЃС‚РѕРІС‹С… РїСЂРµРґРјРµС‚Р° СЃ "
+						+ "С‚СЂРµРЅРёСЂРѕРІРѕС‡РЅС‹С… РєСѓРєРѕР».");
 				GlobalParams.FVQuestTraningCamp = 11;
 				spk = false;
 
@@ -453,13 +453,13 @@ public class ForgottenVillage {
 			    if (GlobalParams.FVQuestTraningCamp == 12) {
 
 				System.out
-					.println("Ну что же воин! Ты готов! Удачи тебе!");
+					.println("РќСѓ С‡С‚Рѕ Р¶Рµ РІРѕРёРЅ! РўС‹ РіРѕС‚РѕРІ! РЈРґР°С‡Рё С‚РµР±Рµ!");
 				GlobalParams.FVQuestTraningCampItem = 0;
 				GlobalParams.FVQuestTraningCamp = 13;
 				GlobalParams.exp += 10;
 				GlobalParams.isQuest = false;
 				System.out
-					.println("Квест завершен. Вы получили 10 очей опыта. Ваш опыт: "
+					.println("РљРІРµСЃС‚ Р·Р°РІРµСЂС€РµРЅ. Р’С‹ РїРѕР»СѓС‡РёР»Рё 10 РѕС‡РµР№ РѕРїС‹С‚Р°. Р’Р°С€ РѕРїС‹С‚: "
 						+ GlobalParams.exp);
 				spk = false;
 
@@ -493,16 +493,16 @@ public class ForgottenVillage {
 	if (World.world[World.PLAYER_POS_X][World.PLAYER_POS_Y]
 		.equals(GlobalParams.bonfire)) {
 	    if (GlobalParams.FVQuestTraningCamp == 6) {
-		System.out.println("1 - Розжечь костёр");
+		System.out.println("1 - Р РѕР·Р¶РµС‡СЊ РєРѕСЃС‚С‘СЂ");
 		new ToSay(ToSay.key);
 		if (ToSay.key.equals(GlobalParams.one)) {
 		    if (GlobalParams.FVQuestTraningCampItem == 1) {
 			System.out
-				.println("Вы разожгли костёр. Теперь, каждый раз когда вы к нему подойдете, получите бонус.");
+				.println("Р’С‹ СЂР°Р·РѕР¶РіР»Рё РєРѕСЃС‚С‘СЂ. РўРµРїРµСЂСЊ, РєР°Р¶РґС‹Р№ СЂР°Р· РєРѕРіРґР° РІС‹ Рє РЅРµРјСѓ РїРѕРґРѕР№РґРµС‚Рµ, РїРѕР»СѓС‡РёС‚Рµ Р±РѕРЅСѓСЃ.");
 			GlobalParams.FVQuestTraningCampItem = 0;
 			GlobalParams.FVQuestTraningCamp = 7;
 		    } else {
-			System.out.println("Костёр нужно розжигать...");
+			System.out.println("РљРѕСЃС‚С‘СЂ РЅСѓР¶РЅРѕ СЂРѕР·Р¶РёРіР°С‚СЊ...");
 		    }
 		}
 
@@ -511,7 +511,7 @@ public class ForgottenVillage {
 
 	if (World.world[World.PLAYER_POS_X][World.PLAYER_POS_Y]
 		.equals(GlobalParams.TraderRidjz)) {
-	    System.out.println("Желаете поговорить с "
+	    System.out.println("Р–РµР»Р°РµС‚Рµ РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ "
 		    + GlobalParams.TraderRidjz + " ?");
 	    new ToSay(ToSay.key);
 	    if (ToSay.key.equals(GlobalParams.speak)) {
@@ -521,70 +521,70 @@ public class ForgottenVillage {
 		    System.out
 			    .println(GlobalParams.NewbieGuide
 				    + ":  "
-				    + "Привет "
+				    + "РџСЂРёРІРµС‚ "
 				    + GlobalParams.playerName
-				    + ", сейчас между нами должен будет произойти диалог... Но пока что я не знаю что тебе говорить...");
-		    System.out.println("Но я тебе предлагаю некий выбор:");
-		    System.out.println("Поговорить - 1");
-		    System.out.println("Торговать - 2");
-		    System.out.println("Квест - 3");
+				    + ", СЃРµР№С‡Р°СЃ РјРµР¶РґСѓ РЅР°РјРё РґРѕР»Р¶РµРЅ Р±СѓРґРµС‚ РїСЂРѕРёР·РѕР№С‚Рё РґРёР°Р»РѕРі... РќРѕ РїРѕРєР° С‡С‚Рѕ СЏ РЅРµ Р·РЅР°СЋ С‡С‚Рѕ С‚РµР±Рµ РіРѕРІРѕСЂРёС‚СЊ...");
+		    System.out.println("РќРѕ СЏ С‚РµР±Рµ РїСЂРµРґР»Р°РіР°СЋ РЅРµРєРёР№ РІС‹Р±РѕСЂ:");
+		    System.out.println("РџРѕРіРѕРІРѕСЂРёС‚СЊ - 1");
+		    System.out.println("РўРѕСЂРіРѕРІР°С‚СЊ - 2");
+		    System.out.println("РљРІРµСЃС‚ - 3");
 		    if (GlobalParams.FVNimGame == 1) {
-			System.out.println("Играть в игру - 4");
+			System.out.println("РРіСЂР°С‚СЊ РІ РёРіСЂСѓ - 4");
 		    }
 		    if (GlobalParams.FVNimGame == 1) {
-			System.out.println("Выйти из разговора - 5");
+			System.out.println("Р’С‹Р№С‚Рё РёР· СЂР°Р·РіРѕРІРѕСЂР° - 5");
 		    }
 		    if (GlobalParams.FVNimGame == 0) {
-			System.out.println("Выйти из разговора - 4");
+			System.out.println("Р’С‹Р№С‚Рё РёР· СЂР°Р·РіРѕРІРѕСЂР° - 4");
 		    }
 
 		    new ToSay(ToSay.key);
 		    if (ToSay.key.equals(GlobalParams.one)) {
-			System.out.println("Нам неочем с тобой говорить...");
+			System.out.println("РќР°Рј РЅРµРѕС‡РµРј СЃ С‚РѕР±РѕР№ РіРѕРІРѕСЂРёС‚СЊ...");
 		    }
 		    if (ToSay.key.equals(GlobalParams.two)) {
-			System.out.println("У меня ничего для тебя нет...");
+			System.out.println("РЈ РјРµРЅСЏ РЅРёС‡РµРіРѕ РґР»СЏ С‚РµР±СЏ РЅРµС‚...");
 		    }
 		    if (ToSay.key.equals(GlobalParams.three)) {
 			if (GlobalParams.FVQuestTraningCamp == 4) {
-			    System.out.println("Тренировочный лагерь - 1");
+			    System.out.println("РўСЂРµРЅРёСЂРѕРІРѕС‡РЅС‹Р№ Р»Р°РіРµСЂСЊ - 1");
 			    new ToSay(ToSay.key);
 			    if (ToSay.key.equals(GlobalParams.one)) {
 				System.out
-					.println("Ты ищешь огонь? Я готов тебе помочь!");
+					.println("РўС‹ РёС‰РµС€СЊ РѕРіРѕРЅСЊ? РЇ РіРѕС‚РѕРІ С‚РµР±Рµ РїРѕРјРѕС‡СЊ!");
 				GlobalParams.FVQuestTraningCampItem = 1;
 				System.out
-					.println("Вы получили квестовый предмет: Огонь");
+					.println("Р’С‹ РїРѕР»СѓС‡РёР»Рё РєРІРµСЃС‚РѕРІС‹Р№ РїСЂРµРґРјРµС‚: РћРіРѕРЅСЊ");
 				GlobalParams.FVQuestTraningCamp = 5;
 
 			    }
 			}
 			if (GlobalParams.FVQuestEpidemiaTraderRidjz == 1) {
 			    if (GlobalParams.FVQuestEpidemiaScore != 2){
-			    System.out.println("1 - Помощь попрошайке");
+			    System.out.println("1 - РџРѕРјРѕС‰СЊ РїРѕРїСЂРѕС€Р°Р№РєРµ");
 			    }
 			    if (GlobalParams.FVQuestEpidemiaScore == 2)
-				System.out.println("1 - Помощь попрошайке");
+				System.out.println("1 - РџРѕРјРѕС‰СЊ РїРѕРїСЂРѕС€Р°Р№РєРµ");
 			    new ToSay(ToSay.key);
 			    if (GlobalParams.FVQuestEpidemiaScore != 2){
 			    if (ToSay.key.equals(GlobalParams.one)) {
 				System.out
-					.println("Ахахаха! Хахах!\n"
-						+ "Ты что и вправду подумал что я возьму и отдам тебе его деньги?\n"
-						+ "А давай ссыграем в игру? Если выиграешь у меня 2 раза подряд - отдам!");
+					.println("РђС…Р°С…Р°С…Р°! РҐР°С…Р°С…!\n"
+						+ "РўС‹ С‡С‚Рѕ Рё РІРїСЂР°РІРґСѓ РїРѕРґСѓРјР°Р» С‡С‚Рѕ СЏ РІРѕР·СЊРјСѓ Рё РѕС‚РґР°Рј С‚РµР±Рµ РµРіРѕ РґРµРЅСЊРіРё?\n"
+						+ "Рђ РґР°РІР°Р№ СЃСЃС‹РіСЂР°РµРј РІ РёРіСЂСѓ? Р•СЃР»Рё РІС‹РёРіСЂР°РµС€СЊ Сѓ РјРµРЅСЏ 2 СЂР°Р·Р° РїРѕРґСЂСЏРґ - РѕС‚РґР°Рј!");
 
-				System.out.println("1 - Играть в игру");
-				System.out.println("2 - Закончить разговор");
+				System.out.println("1 - РРіСЂР°С‚СЊ РІ РёРіСЂСѓ");
+				System.out.println("2 - Р—Р°РєРѕРЅС‡РёС‚СЊ СЂР°Р·РіРѕРІРѕСЂ");
 				new ToSay(ToSay.key);
 				if (ToSay.key.equals(GlobalParams.two)) {
 				    System.out
-					    .println("Хахаха! Ну ты и лопух!!!");
+					    .println("РҐР°С…Р°С…Р°! РќСѓ С‚С‹ Рё Р»РѕРїСѓС…!!!");
 				    spk = false;
 				}
 				if (ToSay.key.equals(GlobalParams.one)) {
 				    System.out
-					    .println("Правила просты. Есть 15 спичек.\nПо очереди берем от 1 до 3. "
-						    + "Проиграл тот, кто взял последнюю...");
+					    .println("РџСЂР°РІРёР»Р° РїСЂРѕСЃС‚С‹. Р•СЃС‚СЊ 15 СЃРїРёС‡РµРє.\nРџРѕ РѕС‡РµСЂРµРґРё Р±РµСЂРµРј РѕС‚ 1 РґРѕ 3. "
+						    + "РџСЂРѕРёРіСЂР°Р» С‚РѕС‚, РєС‚Рѕ РІР·СЏР» РїРѕСЃР»РµРґРЅСЋСЋ...");
 
 				    NimGame nimGame = new NimGame();
 				    Thread t = new Thread(nimGame);
@@ -597,9 +597,9 @@ public class ForgottenVillage {
 			    if (GlobalParams.FVQuestEpidemiaScore == 2) {
 			    if (ToSay.key.equals(GlobalParams.one)) {
 				    System.out
-					    .println("А ты молодец!!! Вот возьми как и договаривались.\n");
+					    .println("Рђ С‚С‹ РјРѕР»РѕРґРµС†!!! Р’РѕС‚ РІРѕР·СЊРјРё РєР°Рє Рё РґРѕРіРѕРІР°СЂРёРІР°Р»РёСЃСЊ.\n");
 				    System.out
-					    .println("Вы получили: Деньги попрошайки");
+					    .println("Р’С‹ РїРѕР»СѓС‡РёР»Рё: Р”РµРЅСЊРіРё РїРѕРїСЂРѕС€Р°Р№РєРё");
 				    GlobalParams.FVQuestEpidemiaMumperMoney = 3;
 				    spk = false;
 				}
@@ -619,11 +619,11 @@ public class ForgottenVillage {
 		    }
 		    if (GlobalParams.FVNimGame == 1) {
 			if (ToSay.key.equals(GlobalParams.five)) {
-			    System.out.println("Прощай!");
+			    System.out.println("РџСЂРѕС‰Р°Р№!");
 			    spk = false;
 			}
 		    } else if (ToSay.key.equals(GlobalParams.four)) {
-			System.out.println("Прощай!");
+			System.out.println("РџСЂРѕС‰Р°Р№!");
 			spk = false;
 		    }
 
@@ -635,27 +635,27 @@ public class ForgottenVillage {
 		.equals(GlobalParams.TraderTauren)) {
 
 	    if (GlobalParams.FVQuestTraningCamp == 9) {
-		System.out.println("Исчез предмет \"Письмо Таурену\".");
+		System.out.println("РСЃС‡РµР· РїСЂРµРґРјРµС‚ \"РџРёСЃСЊРјРѕ РўР°СѓСЂРµРЅСѓ\".");
 
 		try {
 		    new Thread();
-		    System.out.println("Таурен читает письмо...");
+		    System.out.println("РўР°СѓСЂРµРЅ С‡РёС‚Р°РµС‚ РїРёСЃСЊРјРѕ...");
 		    Thread.sleep(7000);
 		    System.out
-			    .println("Ну чтож "
+			    .println("РќСѓ С‡С‚РѕР¶ "
 				    + GlobalParams.playerName
 				    + "..."
-				    + "Аметист знает толк в оружии... Видимо ты его заслужил!");
+				    + "РђРјРµС‚РёСЃС‚ Р·РЅР°РµС‚ С‚РѕР»Рє РІ РѕСЂСѓР¶РёРё... Р’РёРґРёРјРѕ С‚С‹ РµРіРѕ Р·Р°СЃР»СѓР¶РёР»!");
 		    System.out.println();
-		    System.out.println("Вы получили предмет: Меч");
+		    System.out.println("Р’С‹ РїРѕР»СѓС‡РёР»Рё РїСЂРµРґРјРµС‚: РњРµС‡");
 		    GlobalParams.swordWeapon = true;
 		    GlobalParams.FVQuestTraningCamp = 10;
 		    System.out.println();
 		    System.out.println(GlobalParams.playerName
-			    + ", рассматривает оружие...");
+			    + ", СЂР°СЃСЃРјР°С‚СЂРёРІР°РµС‚ РѕСЂСѓР¶РёРµ...");
 		    Thread.sleep(5000);
 		    System.out
-			    .println("Думаю самое время встретиться с тренером. Он обучит мастерству клинка.");
+			    .println("Р”СѓРјР°СЋ СЃР°РјРѕРµ РІСЂРµРјСЏ РІСЃС‚СЂРµС‚РёС‚СЊСЃСЏ СЃ С‚СЂРµРЅРµСЂРѕРј. РћРЅ РѕР±СѓС‡РёС‚ РјР°СЃС‚РµСЂСЃС‚РІСѓ РєР»РёРЅРєР°.");
 		} catch (InterruptedException e) {
 		    e.printStackTrace();
 		}
@@ -663,40 +663,40 @@ public class ForgottenVillage {
 	    }
 	}
 
-	// Конюх
+	// РљРѕРЅСЋС…
 	if (World.world[World.PLAYER_POS_X][World.PLAYER_POS_Y]
 		.equals(GlobalParams.Ostler)) {
-	    System.out.println("Желаете поговорить с Конюхом?");
+	    System.out.println("Р–РµР»Р°РµС‚Рµ РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РљРѕРЅСЋС…РѕРј?");
 	    new ToSay(ToSay.key);
 	    if (ToSay.key.equals(GlobalParams.speak)) {
 		spk = true;
 		while (spk) {
-		    System.out.println("Здравствуй " + GlobalParams.playerName
-			    + ", чего тебе?\n");
-		    System.out.println("1 - Поговорить");
-		    System.out.println("2 - Квест");
-		    System.out.println("3 - Выйти из разговора");
+		    System.out.println("Р—РґСЂР°РІСЃС‚РІСѓР№ " + GlobalParams.playerName
+			    + ", С‡РµРіРѕ С‚РµР±Рµ?\n");
+		    System.out.println("1 - РџРѕРіРѕРІРѕСЂРёС‚СЊ");
+		    System.out.println("2 - РљРІРµСЃС‚");
+		    System.out.println("3 - Р’С‹Р№С‚Рё РёР· СЂР°Р·РіРѕРІРѕСЂР°");
 		    new ToSay(ToSay.key);
 		    if (ToSay.key.equals(GlobalParams.one)) {
 			System.out
-				.println("В деревне эпидемия... Что делать ума не приложу...\n");
+				.println("Р’ РґРµСЂРµРІРЅРµ СЌРїРёРґРµРјРёСЏ... Р§С‚Рѕ РґРµР»Р°С‚СЊ СѓРјР° РЅРµ РїСЂРёР»РѕР¶Сѓ...\n");
 		    }
 		    if (ToSay.key.equals(GlobalParams.three)) {
-			System.out.println("До встречи!!!\n");
+			System.out.println("Р”Рѕ РІСЃС‚СЂРµС‡Рё!!!\n");
 			spk = false;
 		    }
 
 		    if (ToSay.key.equals(GlobalParams.two)) {
 			if (GlobalParams.FVQuestEpidemia == 1) {
-			    System.out.println("\n1 - Эпидемия");
+			    System.out.println("\n1 - Р­РїРёРґРµРјРёСЏ");
 			    new ToSay(ToSay.key);
 			    if (ToSay.key.equals(GlobalParams.one)) {
 				System.out
-					.println("\nТы уже слышал о эпидемии?");
+					.println("\nРўС‹ СѓР¶Рµ СЃР»С‹С€Р°Р» Рѕ СЌРїРёРґРµРјРёРё?");
 				System.out
-					.println("Есть у меня одна мысль. Однажды, Волшебник из Магического зала\n"
-						+ "рассказывал о чудо зелье, которое якобы исцеляет всех от любых напастей.\n"
-						+ "Поговори с ним.");
+					.println("Р•СЃС‚СЊ Сѓ РјРµРЅСЏ РѕРґРЅР° РјС‹СЃР»СЊ. РћРґРЅР°Р¶РґС‹, Р’РѕР»С€РµР±РЅРёРє РёР· РњР°РіРёС‡РµСЃРєРѕРіРѕ Р·Р°Р»Р°\n"
+						+ "СЂР°СЃСЃРєР°Р·С‹РІР°Р» Рѕ С‡СѓРґРѕ Р·РµР»СЊРµ, РєРѕС‚РѕСЂРѕРµ СЏРєРѕР±С‹ РёСЃС†РµР»СЏРµС‚ РІСЃРµС… РѕС‚ Р»СЋР±С‹С… РЅР°РїР°СЃС‚РµР№.\n"
+						+ "РџРѕРіРѕРІРѕСЂРё СЃ РЅРёРј.");
 				GlobalParams.FVQuestEpidemia = 2;
 				spk = false;
 			    }
@@ -709,23 +709,23 @@ public class ForgottenVillage {
 
 	if (World.world[World.PLAYER_POS_X][World.PLAYER_POS_Y]
 		.equals(GlobalParams.Wizard)) {
-	    System.out.println("Желаете поговорить с Волшебником??");
+	    System.out.println("Р–РµР»Р°РµС‚Рµ РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ Р’РѕР»С€РµР±РЅРёРєРѕРј??");
 	    new ToSay(ToSay.key);
 	    if (ToSay.key.equals(GlobalParams.speak)) {
 		spk = true;
 		while (spk) {
-		    System.out.println("Здравствуй " + GlobalParams.playerName
-			    + ", чего тебе?\n");
-		    System.out.println("1 - Поговорить");
-		    System.out.println("2 - Квест");
-		    System.out.println("3 - Выйти из разговора");
+		    System.out.println("Р—РґСЂР°РІСЃС‚РІСѓР№ " + GlobalParams.playerName
+			    + ", С‡РµРіРѕ С‚РµР±Рµ?\n");
+		    System.out.println("1 - РџРѕРіРѕРІРѕСЂРёС‚СЊ");
+		    System.out.println("2 - РљРІРµСЃС‚");
+		    System.out.println("3 - Р’С‹Р№С‚Рё РёР· СЂР°Р·РіРѕРІРѕСЂР°");
 		    new ToSay(ToSay.key);
 		    if (ToSay.key.equals(GlobalParams.one)) {
 			System.out
-				.println("Я слишком занят что бы болтать с кем попало!!!\n");
+				.println("РЇ СЃР»РёС€РєРѕРј Р·Р°РЅСЏС‚ С‡С‚Рѕ Р±С‹ Р±РѕР»С‚Р°С‚СЊ СЃ РєРµРј РїРѕРїР°Р»Рѕ!!!\n");
 		    }
 		    if (ToSay.key.equals(GlobalParams.three)) {
-			System.out.println("Я тебя не ждал...\n");
+			System.out.println("РЇ С‚РµР±СЏ РЅРµ Р¶РґР°Р»...\n");
 			spk = false;
 		    }
 
@@ -734,16 +734,16 @@ public class ForgottenVillage {
 			    GlobalParams.FVQuestEpidemia = 4;
 			}
 			if (GlobalParams.FVQuestEpidemia == 2) {
-			    System.out.println("1 - Эпидемия");
+			    System.out.println("1 - Р­РїРёРґРµРјРёСЏ");
 			    new ToSay(ToSay.key);
 			    if (ToSay.key.equals(GlobalParams.one)) {
 				System.out
-					.println("Эпидемия говоришь? Да есть у меня один рецепт.\n"
-						+ "Но инграиенты есть только у нескольких людей. Посети их.\n"
-						+ "1.Торговец Бертон (Рынок)\n"
-						+ "2.Изабела (Юго-Восток деревни)\n"
-						+ "3.Попрошайка (Двор возле Телепорта)\n"
-						+ "Удачи тебе!");
+					.println("Р­РїРёРґРµРјРёСЏ РіРѕРІРѕСЂРёС€СЊ? Р”Р° РµСЃС‚СЊ Сѓ РјРµРЅСЏ РѕРґРёРЅ СЂРµС†РµРїС‚.\n"
+						+ "РќРѕ РёРЅРіСЂР°РёРµРЅС‚С‹ РµСЃС‚СЊ С‚РѕР»СЊРєРѕ Сѓ РЅРµСЃРєРѕР»СЊРєРёС… Р»СЋРґРµР№. РџРѕСЃРµС‚Рё РёС….\n"
+						+ "1.РўРѕСЂРіРѕРІРµС† Р‘РµСЂС‚РѕРЅ (Р С‹РЅРѕРє)\n"
+						+ "2.РР·Р°Р±РµР»Р° (Р®РіРѕ-Р’РѕСЃС‚РѕРє РґРµСЂРµРІРЅРё)\n"
+						+ "3.РџРѕРїСЂРѕС€Р°Р№РєР° (Р”РІРѕСЂ РІРѕР·Р»Рµ РўРµР»РµРїРѕСЂС‚Р°)\n"
+						+ "РЈРґР°С‡Рё С‚РµР±Рµ!");
 				GlobalParams.FVQuestEpidemia = 3;
 				spk = false;
 			    }
@@ -751,11 +751,11 @@ public class ForgottenVillage {
 			}
 			
 			if (GlobalParams.FVQuestEpidemia == 4) {
-			    System.out.println("1 - Эпидемия");
+			    System.out.println("1 - Р­РїРёРґРµРјРёСЏ");
 			    new ToSay(ToSay.key);
 			    if (ToSay.key.equals(GlobalParams.one)) {
 				System.out
-					.println("Вот возьми зелье!!!");
+					.println("Р’РѕС‚ РІРѕР·СЊРјРё Р·РµР»СЊРµ!!!");
 				GlobalParams.FVQuestEpidemia = 5;
 				spk = false;
 			    }
@@ -768,35 +768,35 @@ public class ForgottenVillage {
 
 	if (World.world[World.PLAYER_POS_X][World.PLAYER_POS_Y]
 		.equals(GlobalParams.TraderBerton)) {
-	    System.out.println("Желаете поговорить с Торговцем Бертоном?");
+	    System.out.println("Р–РµР»Р°РµС‚Рµ РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РўРѕСЂРіРѕРІС†РµРј Р‘РµСЂС‚РѕРЅРѕРј?");
 	    new ToSay(ToSay.key);
 	    if (ToSay.key.equals(GlobalParams.speak)) {
 		spk = true;
 		while (spk) {
-		    System.out.println("Здравствуй " + GlobalParams.playerName
-			    + ", чего тебе?\n");
-		    System.out.println("1 - Торговля");
-		    System.out.println("2 - Квест");
-		    System.out.println("3 - Выйти из разговора");
+		    System.out.println("Р—РґСЂР°РІСЃС‚РІСѓР№ " + GlobalParams.playerName
+			    + ", С‡РµРіРѕ С‚РµР±Рµ?\n");
+		    System.out.println("1 - РўРѕСЂРіРѕРІР»СЏ");
+		    System.out.println("2 - РљРІРµСЃС‚");
+		    System.out.println("3 - Р’С‹Р№С‚Рё РёР· СЂР°Р·РіРѕРІРѕСЂР°");
 		    new ToSay(ToSay.key);
 		    if (ToSay.key.equals(GlobalParams.one)) {
 			System.out
-				.println("Думаю тебе не покарману мой товар...\n");
+				.println("Р”СѓРјР°СЋ С‚РµР±Рµ РЅРµ РїРѕРєР°СЂРјР°РЅСѓ РјРѕР№ С‚РѕРІР°СЂ...\n");
 		    }
 		    if (ToSay.key.equals(GlobalParams.three)) {
-			System.out.println("А может беляшик на дорожку?\n");
+			System.out.println("Рђ РјРѕР¶РµС‚ Р±РµР»СЏС€РёРє РЅР° РґРѕСЂРѕР¶РєСѓ?\n");
 			spk = false;
 		    }
 
 		    if (ToSay.key.equals(GlobalParams.two)) {
 			if (GlobalParams.FVQuestEpidemia == 3) {
-			    System.out.println("1 - Эпидемия");
+			    System.out.println("1 - Р­РїРёРґРµРјРёСЏ");
 			    new ToSay(ToSay.key);
 			    if (ToSay.key.equals(GlobalParams.one)) {
 				System.out
-					.println("Тебе очень повезло! У меня как раз осталось то что тебе нужно! Вот держи\n\n");
+					.println("РўРµР±Рµ РѕС‡РµРЅСЊ РїРѕРІРµР·Р»Рѕ! РЈ РјРµРЅСЏ РєР°Рє СЂР°Р· РѕСЃС‚Р°Р»РѕСЃСЊ С‚Рѕ С‡С‚Рѕ С‚РµР±Рµ РЅСѓР¶РЅРѕ! Р’РѕС‚ РґРµСЂР¶Рё\n\n");
 				System.out
-					.println("Вы получили: Болотная сыворотка(1шт)");
+					.println("Р’С‹ РїРѕР»СѓС‡РёР»Рё: Р‘РѕР»РѕС‚РЅР°СЏ СЃС‹РІРѕСЂРѕС‚РєР°(1С€С‚)");
 				GlobalParams.FVQuestEpidemiaMarshSerum = 1;
 				spk = false;
 			    }
@@ -809,19 +809,19 @@ public class ForgottenVillage {
 
 	if (World.world[World.PLAYER_POS_X][World.PLAYER_POS_Y]
 		.equals(GlobalParams.Izabela)) {
-	    System.out.println("Желаете поговорить с Изабелой?");
+	    System.out.println("Р–РµР»Р°РµС‚Рµ РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РР·Р°Р±РµР»РѕР№?");
 	    new ToSay(ToSay.key);
 	    if (ToSay.key.equals(GlobalParams.speak)) {
 		spk = true;
 		while (spk) {
 		    System.out
-			    .println("Привет незнакомец! Не желаешь уделить вечерок одинокой даме?\n");
-		    System.out.println("1 - Говорить");
-		    System.out.println("2 - Квест");
-		    System.out.println("3 - Выйти из разговора");
+			    .println("РџСЂРёРІРµС‚ РЅРµР·РЅР°РєРѕРјРµС†! РќРµ Р¶РµР»Р°РµС€СЊ СѓРґРµР»РёС‚СЊ РІРµС‡РµСЂРѕРє РѕРґРёРЅРѕРєРѕР№ РґР°РјРµ?\n");
+		    System.out.println("1 - Р“РѕРІРѕСЂРёС‚СЊ");
+		    System.out.println("2 - РљРІРµСЃС‚");
+		    System.out.println("3 - Р’С‹Р№С‚Рё РёР· СЂР°Р·РіРѕРІРѕСЂР°");
 		    new ToSay(ToSay.key);
 		    if (ToSay.key.equals(GlobalParams.one)) {
-			System.out.println("Извини, я занята...\n");
+			System.out.println("РР·РІРёРЅРё, СЏ Р·Р°РЅСЏС‚Р°...\n");
 		    }
 		    if (ToSay.key.equals(GlobalParams.three)) {
 			System.out.println("...\n");
@@ -830,13 +830,13 @@ public class ForgottenVillage {
 
 		    if (ToSay.key.equals(GlobalParams.two)) {
 			if (GlobalParams.FVQuestEpidemia == 3) {
-			    System.out.println("1 - Эпидемия");
+			    System.out.println("1 - Р­РїРёРґРµРјРёСЏ");
 			    new ToSay(ToSay.key);
 			    if (ToSay.key.equals(GlobalParams.one)) {
 				System.out
-					.println("Если ты просишь это для Волшебника, я готова на всё.");
+					.println("Р•СЃР»Рё С‚С‹ РїСЂРѕСЃРёС€СЊ СЌС‚Рѕ РґР»СЏ Р’РѕР»С€РµР±РЅРёРєР°, СЏ РіРѕС‚РѕРІР° РЅР° РІСЃС‘.");
 				System.out
-					.println("Вы получили: Соленья Немезиды(1шт)");
+					.println("Р’С‹ РїРѕР»СѓС‡РёР»Рё: РЎРѕР»РµРЅСЊСЏ РќРµРјРµР·РёРґС‹(1С€С‚)");
 				GlobalParams.FVQuestEpidemiaNemesisPickles = 1;
 				spk = false;
 			    }
@@ -847,23 +847,23 @@ public class ForgottenVillage {
 	    }
 	}
 
-	// Попрошайка
+	// РџРѕРїСЂРѕС€Р°Р№РєР°
 
 	if (World.world[World.PLAYER_POS_X][World.PLAYER_POS_Y]
 		.equals(GlobalParams.Mumper)) {
-	    System.out.println("Желаете поговорить с Попрошайкой?");
+	    System.out.println("Р–РµР»Р°РµС‚Рµ РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РџРѕРїСЂРѕС€Р°Р№РєРѕР№?");
 	    new ToSay(ToSay.key);
 	    if (ToSay.key.equals(GlobalParams.speak)) {
 		spk = true;
 		while (spk) {
-		    System.out.println("Ах это ты воин? Чего тебе?\n");
-		    System.out.println("1 - Говорить");
-		    System.out.println("2 - Квест");
-		    System.out.println("3 - Выйти из разговора");
+		    System.out.println("РђС… СЌС‚Рѕ С‚С‹ РІРѕРёРЅ? Р§РµРіРѕ С‚РµР±Рµ?\n");
+		    System.out.println("1 - Р“РѕРІРѕСЂРёС‚СЊ");
+		    System.out.println("2 - РљРІРµСЃС‚");
+		    System.out.println("3 - Р’С‹Р№С‚Рё РёР· СЂР°Р·РіРѕРІРѕСЂР°");
 		    new ToSay(ToSay.key);
 		    if (ToSay.key.equals(GlobalParams.one)) {
 			System.out
-				.println("Говорят, что там, где живётся плохо - попрошаек на улице не встретишь.\n");
+				.println("Р“РѕРІРѕСЂСЏС‚, С‡С‚Рѕ С‚Р°Рј, РіРґРµ Р¶РёРІС‘С‚СЃСЏ РїР»РѕС…Рѕ - РїРѕРїСЂРѕС€Р°РµРє РЅР° СѓР»РёС†Рµ РЅРµ РІСЃС‚СЂРµС‚РёС€СЊ.\n");
 		    }
 		    if (ToSay.key.equals(GlobalParams.three)) {
 			System.out.println("...\n");
@@ -872,15 +872,15 @@ public class ForgottenVillage {
 
 		    if (ToSay.key.equals(GlobalParams.two)) {
 			if (GlobalParams.FVQuestEpidemia == 3) {
-			    System.out.println("1 - Эпидемия");
+			    System.out.println("1 - Р­РїРёРґРµРјРёСЏ");
 			    new ToSay(ToSay.key);
 			    if (ToSay.key.equals(GlobalParams.one)) {
 				System.out
-					.println("Я с удовольствием отдам тебе инградиент.\n"
-						+ "Но сначала ты мне должен помочь...\n\n"
-						+ "Есть у меня одна слабость, люблю азартные игры...\n"
-						+ "Вот и проигрался я до копейки торговцу Риджсу.\n"
-						+ "Может ты сможешь вернуть мои деньги?");
+					.println("РЇ СЃ СѓРґРѕРІРѕР»СЊСЃС‚РІРёРµРј РѕС‚РґР°Рј С‚РµР±Рµ РёРЅРіСЂР°РґРёРµРЅС‚.\n"
+						+ "РќРѕ СЃРЅР°С‡Р°Р»Р° С‚С‹ РјРЅРµ РґРѕР»Р¶РµРЅ РїРѕРјРѕС‡СЊ...\n\n"
+						+ "Р•СЃС‚СЊ Сѓ РјРµРЅСЏ РѕРґРЅР° СЃР»Р°Р±РѕСЃС‚СЊ, Р»СЋР±Р»СЋ Р°Р·Р°СЂС‚РЅС‹Рµ РёРіСЂС‹...\n"
+						+ "Р’РѕС‚ Рё РїСЂРѕРёРіСЂР°Р»СЃСЏ СЏ РґРѕ РєРѕРїРµР№РєРё С‚РѕСЂРіРѕРІС†Сѓ Р РёРґР¶СЃСѓ.\n"
+						+ "РњРѕР¶РµС‚ С‚С‹ СЃРјРѕР¶РµС€СЊ РІРµСЂРЅСѓС‚СЊ РјРѕРё РґРµРЅСЊРіРё?");
 				spk = false;
 
 				GlobalParams.FVQuestEpidemiaTraderRidjz = 1;
@@ -888,13 +888,13 @@ public class ForgottenVillage {
 			    }
 			}
 			if (GlobalParams.FVQuestEpidemiaMumperMoney == 3) {
-			    System.out.println("1 - Эпидемия");
+			    System.out.println("1 - Р­РїРёРґРµРјРёСЏ");
 			    new ToSay(ToSay.key);
 			    if (ToSay.key.equals(GlobalParams.one)) {
 				System.out
-					.println("Спасибо тебе огромное!!! Вот возьми то что просил!");
+					.println("РЎРїР°СЃРёР±Рѕ С‚РµР±Рµ РѕРіСЂРѕРјРЅРѕРµ!!! Р’РѕС‚ РІРѕР·СЊРјРё С‚Рѕ С‡С‚Рѕ РїСЂРѕСЃРёР»!");
 				System.out
-					.println("Вы получили: Водоросли Абгуса(1шт)");
+					.println("Р’С‹ РїРѕР»СѓС‡РёР»Рё: Р’РѕРґРѕСЂРѕСЃР»Рё РђР±РіСѓСЃР°(1С€С‚)");
 				GlobalParams.FVQuestEpidemiaAbgusAlgae = 1;
 				spk = false;
 			    }
@@ -908,7 +908,7 @@ public class ForgottenVillage {
     }
 }
 
-// Выход из деревни... Заготовка...
+// Р’С‹С…РѕРґ РёР· РґРµСЂРµРІРЅРё... Р—Р°РіРѕС‚РѕРІРєР°...
 // if
 // (World.world[World.PLAYER_POS_X][World.PLAYER_POS_Y].equals(GlobalParams.ForgottenVillageOUT)){
 // GlobalParams.MapID = NeighborhoodOfForgottenVillage.MapID;

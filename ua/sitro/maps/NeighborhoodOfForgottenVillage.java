@@ -7,7 +7,7 @@ import ua.sitro.romansworld.World;
 
 /**
  * 
- * Окрестности деревни "Forgotten Village".
+ * РћРєСЂРµСЃС‚РЅРѕСЃС‚Рё РґРµСЂРµРІРЅРё "Forgotten Village".
  * 
  **/
 public class NeighborhoodOfForgottenVillage {
@@ -18,13 +18,13 @@ public class NeighborhoodOfForgottenVillage {
     public static void NeighborhoodForgottenVillageWelcomeMessage() {
 
 	System.out
-		.println("#############ВЫ ВЫШЛИ В ОКРЕСНОСТИ ДЕРЕВНИ FORGOTTEN VILLAGE############");
+		.println("#############Р’Р« Р’Р«РЁР›Р Р’ РћРљР Р•РЎРќРћРЎРўР Р”Р•Р Р•Р’РќР FORGOTTEN VILLAGE############");
 
     }
 
     public static void NeighborhoodForgottenVillageBuild() {
 
-	// Присваиваем координаты стартоой позиции игрока
+	// РџСЂРёСЃРІР°РёРІР°РµРј РєРѕРѕСЂРґРёРЅР°С‚С‹ СЃС‚Р°СЂС‚РѕРѕР№ РїРѕР·РёС†РёРё РёРіСЂРѕРєР°
 	World.PLAYER_POS_X = 3;
 	World.PLAYER_POS_Y = 3;
 	World.world[3][2] = GlobalParams.ForgottenVillageEastIN;

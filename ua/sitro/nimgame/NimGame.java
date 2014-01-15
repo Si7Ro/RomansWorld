@@ -82,7 +82,7 @@ public class NimGame implements Runnable {
 	boolean c = false;
 	while (!c) {
 	    System.out
-		    .println("Ход Романа\nВведите, сколько спичек выберете?\nОт 1 до 3");
+		    .println("РҐРѕРґ Р РѕРјР°РЅР°\nР’РІРµРґРёС‚Рµ, СЃРєРѕР»СЊРєРѕ СЃРїРёС‡РµРє РІС‹Р±РµСЂРµС‚Рµ?\nРћС‚ 1 РґРѕ 3");
 
 	    if (sc.hasNextInt()) {
 
@@ -90,13 +90,13 @@ public class NimGame implements Runnable {
 
 		if (scan > spichki) {
 		    System.out
-			    .println("Вы не можете взять больше спичек, чем имеется на столе.");
+			    .println("Р’С‹ РЅРµ РјРѕР¶РµС‚Рµ РІР·СЏС‚СЊ Р±РѕР»СЊС€Рµ СЃРїРёС‡РµРє, С‡РµРј РёРјРµРµС‚СЃСЏ РЅР° СЃС‚РѕР»Рµ.");
 		    c = false;
 		} else if (scan >= 1 && scan <= 3) {
 		    c = true;
 		} else {
 		    System.out
-			    .println("Вы  можете взять от 1 до 3х спичек за один ход!");
+			    .println("Р’С‹  РјРѕР¶РµС‚Рµ РІР·СЏС‚СЊ РѕС‚ 1 РґРѕ 3С… СЃРїРёС‡РµРє Р·Р° РѕРґРёРЅ С…РѕРґ!");
 		    c = false;
 		}
 
@@ -111,14 +111,14 @@ public class NimGame implements Runnable {
     public void run() {
 	Actions.count = false;
 
-	System.out.println("СПИЧКИ:\n");
+	System.out.println("РЎРџРР§РљР:\n");
 	spichki = 15;
 	engine();
 	while (spichki > 0) {
 	    if (!once) {
 
-		System.out.println("Для начала игры:\n" + "1) нажмите ENTER\n"
-			+ "2) введите от любое число и нажмите ENTER");
+		System.out.println("Р”Р»СЏ РЅР°С‡Р°Р»Р° РёРіСЂС‹:\n" + "1) РЅР°Р¶РјРёС‚Рµ ENTER\n"
+			+ "2) РІРІРµРґРёС‚Рµ РѕС‚ Р»СЋР±РѕРµ С‡РёСЃР»Рѕ Рё РЅР°Р¶РјРёС‚Рµ ENTER");
 		sc.next();
 	    }
 	    once = true;
@@ -126,7 +126,7 @@ public class NimGame implements Runnable {
 	    engine();
 	    if (spichki == 0) {
 
-		System.out.println("ВЫ ПРОИГРАЛИ!!! ПОБЕДИЛ РИДЖС!");
+		System.out.println("Р’Р« РџР РћРР“Р РђР›Р!!! РџРћР‘Р•Р”РР› Р РР”Р–РЎ!");
 		Actions.count = true;
 		once = false;
 		Checker.onCheck();
@@ -134,16 +134,16 @@ public class NimGame implements Runnable {
 		break;
 
 	    }
-	    System.out.println("Ходит Риджс...");
+	    System.out.println("РҐРѕРґРёС‚ Р РёРґР¶СЃ...");
 	    try {
 		Thread.sleep(1000);
 	    } catch (Exception e) {
 	    }
 	    AILogic();
 	    spichki -= compHod;
-	    System.out.println("Компьютер взял " + compHod + " спич.");
+	    System.out.println("РљРѕРјРїСЊСЋС‚РµСЂ РІР·СЏР» " + compHod + " СЃРїРёС‡.");
 	    if (spichki == 0) {
-		System.out.println("ВЫ ВЫИГРАЛИ!");
+		System.out.println("Р’Р« Р’Р«РР“Р РђР›Р!");
 		if (GlobalParams.FVQuestEpidemiaTraderRidjz == 1) {
 		    GlobalParams.FVQuestEpidemiaScore += 1;
 		}
@@ -154,7 +154,7 @@ public class NimGame implements Runnable {
 
 	    }
 	    engine();
-	    System.out.println("Осталось " + spichki + " спич.");
+	    System.out.println("РћСЃС‚Р°Р»РѕСЃСЊ " + spichki + " СЃРїРёС‡.");
 	}
 	spichki = 15;
 
